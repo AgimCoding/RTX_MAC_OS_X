@@ -1,5 +1,3 @@
-Voici un `README.md` en anglais, orienté GitHub et prudent sur ce qui est réellement validé matériellement :
-
 ```markdown
 # NVIDIA Ampere on macOS
 
